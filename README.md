@@ -9,15 +9,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=F74213&center=true&vCenter=true&random=false&width=600&height=60&lines=NestJS+Backend+Developer...%E2%9D%A4%EF%B8%8F%2C;React+FrontEnd+Developer%2C;Data+Analysts+and+AI+Enthusiast%2C;Active+Learner%2FResearcher%2C;Passionate+Programmer%2C;Love+to+Learn+New+Staff%2C" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on some **NestJs Projects for my [Portfolio](https://danielroman.pages.dev/)**
+- 🔭 I’m currently working on some **Fygaro as FullStack Developer**
 
-- 🌱 I’m currently learning **Python 🐍, Microservices Architecture and Redux**
+- 🌱 I’m currently learning **Python 🐍 Django, Microservices Architecture and Redux**
 
 - 🙆🏻‍♂️ I’m looking to collaborate on **FullStack projects**
 
 - 📫 How to reach me: **danielroman.05111@gmail.com**
 
 - 🎮 What I like to do: **I like so much play videogames, play the bass guitar, look some anime series, coding (of course) and learn new technologies**
+
+- 👻 This is my **[portfolio](https://danielroman.pages.dev/)** (currently migrating all projects)
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
