@@ -6,10 +6,10 @@
 <h3 align="center">A passionate Full Stack (and a python data analyst beginner) developer from Colombia</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=F74213&center=true&vCenter=true&random=false&width=600&height=60&lines=NestJS+Backend+Developer...%E2%9D%A4%EF%B8%8F%2C;React+FrontEnd+Developer%2C;Data+Analysts+and+AI+Enthusiast%2C;Active+Learner%2FResearcher%2C;Passionate+Programmer%2C;Love+to+Learn+New+Staff%2C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=DC1C41&center=true&vCenter=true&random=false&width=600&height=60&lines=NestJs+Backend+Developer...%E2%9D%A4%EF%B8%8F%2C;Django+Backend+Developer...%F0%9F%92%99%2C;React+FrontEnd+Developer%2C;Data+Analysts+and+AI+Enthusiast%2C;Active+Learner%2FResearcher%2C;Passionate+Programmer%2C;Love+to+Learn+New+Staff%2C" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on some **Fygaro as FullStack Developer**
+- 🔭 I’m currently working on **Fygaro as FullStack Developer**
 
 - 🌱 I’m currently learning **Python 🐍 Django, Microservices Architecture and Redux**
 
