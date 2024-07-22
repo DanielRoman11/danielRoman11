@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **danielroman.05111@gmail.com**
 
-- 🎮 I like to **play videogames and bass guitar, look some anime series, coding (of course) and drink coffe ☕️**
+- 🎮 I like to **play videogames and bass guitar, look some anime series, drink coffe ☕️ and coding (of course)**
 
 - 👻 This is my **[portfolio](https://danielroman.pages.dev/)** (currently migrating all projects)
 
