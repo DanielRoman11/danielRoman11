@@ -3,23 +3,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   , I'm Daniel Román 🇨🇴
 </h1>
-<h3 align="center">A passionate Full Stack (and python data analyst beginner) developer from Colombia</h3>
+<h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=DC1C41&center=true&vCenter=true&random=false&width=600&height=60&lines=NestJs+Backend+Developer...%E2%9D%A4%EF%B8%8F%2C;Django+Backend+Developer...%F0%9F%92%99%2C;React+FrontEnd+Developer%2C;Data+Analysts+and+AI+Enthusiast%2C;Active+Learner%2FResearcher%2C;Passionate+Programmer%2C;Love+to+Learn+New+Staff%2C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=1000&pause=1500&color=F71A4D&center=true&vCenter=true&width=600&height=90&lines=Frontend+Developer%2C;Backend+Developer%2C;Active+Learner+%26+Researcher%2C;Love+to+Learn+new+Staff%2C;Passionate+Programmer%2C" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on **Fygaro as a FullStack Developer**
+- 🌱 I’m currently learning **Java, Microservices, AWS ECS**
 
-- 🌱 I’m currently learning **Python 🐍 Django, Microservices Architecture and Redux**
-
-- 🙆🏻‍♂️ I’m open to collaborate on **FullStack projects in Nestjs or Django**
+- 🙆🏻‍♂️ I’m open to collaborate on **FullStack projects in Nestjs**
 
 - 📫 How to reach me: **danielroman.05111@gmail.com**
 
 - 🎮 I like to **play videogames and bass guitar, look some anime series, drink coffe ☕️ and coding (of course)**
 
-- 👻 This is my **[portfolio](https://danielroman.pages.dev/)** (currently migrating all projects)
+- 👻 This is my **[portfolio](https://danielroman.pages.dev/)**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -55,9 +53,6 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/> 
   </a>  
