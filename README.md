@@ -9,13 +9,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=1000&pause=1500&color=F71A4D&center=true&vCenter=true&width=600&height=90&lines=Frontend+Developer%2C;Backend+Developer%2C;Active+Learner+%26+Researcher%2C;Love+to+Learn+new+Staff%2C;Passionate+Programmer%2C" alt="Typing SVG" /></a>
 </p>
 
-- 🌱 I’m currently learning **Java, Microservices, AWS ECS**
+- 📚 My stack is **MongoDB/PostgresSQL, Nextjs, Nestjs, Node**, backend strong
+
+- 🌱 I’m currently learning **Java, Microservices, AWS ECS, AWS Lambda**
 
 - 🙆🏻‍♂️ I’m open to collaborate on **FullStack projects in Nestjs**
 
 - 📫 How to reach me: **danielroman.05111@gmail.com**
 
-- 🎮 I like to **play videogames and bass guitar, look some anime series, drink coffe ☕️ and coding (of course)**
+- 🎮 I like to **play videogames and bass guitar, enjoy anime series and drink coffe ☕️**
 
 - 👻 This is my **[portfolio](https://danielroman.pages.dev/)**
 
