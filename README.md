@@ -11,9 +11,9 @@
 
 - 📚 My stack is **MongoDB/PostgresSQL, Nextjs, Nestjs, Node**, backend strong
 
-- 🌱 I’m currently learning **Java, Microservices, AWS ECS, AWS Lambda**
+- 🌱 I’m currently learning **Golang, Microservices, AWS ECS, AWS Lambda**
 
-- 🙆🏻‍♂️ I’m open to collaborate on **FullStack projects in Nestjs**
+- 🙆🏻‍♂️ I’m open to collaborate on **Web Projects!**
 
 - 📫 How to reach me: **danielroman.05111@gmail.com**
 
